@@ -22,16 +22,21 @@ title: STUnknownThings
 email: jqbung0318@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   STUnknownThings Personal Blog
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jqbung.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jq_bung
-github_username: jqbung0318
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://jqbung0318.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: jekyll-theme-console
+# theme: jekyll-theme-console
+remote_theme: b2a3e8/jekyll-theme-console
 plugins:
   - jekyll-feed
+markdown: kramdown
+
+header_pages:
+  - index.md
+  - about.md
 style: dark
+footer: "STUnknownThings 2024"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
