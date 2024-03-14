@@ -170,7 +170,10 @@ pre { margin: 10px 0; padding: 10px; border-radius: 5px;  }
     margin-right: unset;
 }
 
-img .profile_picture {
-    margin: 0 1em;
+.profile_picture {
     border-radius: 50%;
+}
+
+.profile_picture_about {
+    margin: 0 1em;
 }
