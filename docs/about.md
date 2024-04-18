@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-# [Get my full CV](./resources/JQBung-CV-online-2024.pdf)
+# [Get my Resume](./resources/JQBung-resume-2024.pdf)
 
 <br/>
 
